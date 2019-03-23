@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>00.png</file>
+        <file>01.png</file>
+        <file>02.png</file>
+        <file>03.png</file>
+        <file>04.png</file>
+        <file>05.png</file>
+        <file>06.png</file>
+        <file>07.png</file>
+        <file>08.png</file>
+        <file>9.png</file>
+        <file>10.png</file>
+        <file>11.png</file>
+        <file>12.png</file>
+        <file>13.png</file>
+        <file>14.png</file>
+        <file>15.png</file>
+        <file>complete.ico</file>
+        <file>yes.jpg</file>
+        <file>puzzle.ico</file>
+    </qresource>
+</RCC>
